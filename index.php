@@ -33,7 +33,7 @@
         $mock_person_array = array(
             array(
                 'name' => 'Anthony Guertin',
-                'address' => '2130 Carolyn Way'
+                'address' => 'I dont want you to know'
             ),
             array(
                 'name' => 'Anthony Eiting',
